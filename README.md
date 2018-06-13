@@ -1,12 +1,13 @@
   auto-webpack
-===============
-  webpack,html,express,babel,eslint
---------------------------
+========
+
+ webpack,html,express,babel,eslint
+-----
 ## run
 
-## npm install
+  npm install <br>
 
-##  npm run build
+  npm run build <br>
 
-## npm start
+  npm start <br>
   打开浏览器 输入 localhost:8800
